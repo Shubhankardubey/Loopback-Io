@@ -1,0 +1,26 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "postgres": {
+    "host": "localhost",
+    "port": 5432,
+    "url": "",
+    "database": "asset_management",
+    "password": "",
+    "name": "postgres",
+    "user": "shubh",
+    "connector": "postgresql"
+  },
+  "mongodb": {
+    "host": "localhost",
+    "port": 5436,
+    "url": "",
+    "database": "asset_management",
+    "password": "",
+    "name": "mongodb",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
